@@ -15,7 +15,7 @@
 
 ## 👋 Welcome to Feedra
 
-Feedra is a modern feedback widget that seamlessly integrates into your website, helping you capture valuable customer insights without disrupting their experience. Built for developers and product teams who care about user feedback but don't want the complexity of enterprise solutions.
+Feedra is a modern feedback platform that seamlessly integrates into your company's website or app, helping you capture valuable customer insights without disrupting their experience. Built for developers and product teams who care about user feedback but don't want the complexity of enterprise solutions.
 
 ## ✨ Why Feedra?
 
